@@ -24,11 +24,11 @@ python client.py
 ### ผลลัพธ์
 Client 1
 
-![Client 1](images/ex1-client1.png)
+![Client 1](ex1-client1.png.png)
 
 Client 2
 
-![Client 2](images/ex1-client2.png)
+![Client 2](ex1-client2.png.png)
 
 ---
 
@@ -47,21 +47,21 @@ docker compose up --build
 ### ผลลัพธ์
 หน้าฟอร์ม
 
-![หน้าฟอร์ม](images/ex2-form.png)
+![หน้าฟอร์ม](ex2-form.png.png)
 
 หน้าผลลัพธ์
 
-![ผลลัพธ์](images/ex2-result.png)
+![ผลลัพธ์](ex2-result.png.png)
 
-![ผลลัพธ์ 2](images/ex2-result2.png)
+![ผลลัพธ์ 2](ex2-result2.png.png)
 
 docker ps
 
-![docker ps](images/ex2-ps.png)
+![docker ps](ex2-ps.png.png)
 
 Log ของ Socket Server
 
-![log](images/ex2-log.png)
+![log](ex2-log.png.png)
 
 ---
 
